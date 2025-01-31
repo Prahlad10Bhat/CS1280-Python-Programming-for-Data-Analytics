@@ -1,0 +1,9 @@
+importing functions
+-Modules (#Module: blah.py)
+-functions (# from blah.py import BLAH() ) 
+
+Creating Packages: empty file
+                   Functions
+Creating enironment
+Installing packages: ( pip install numpy pandas )
+Creating Lambda functions that returns values based on conditions
