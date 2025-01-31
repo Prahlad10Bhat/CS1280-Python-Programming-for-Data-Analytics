@@ -6,5 +6,5 @@ def check(num):
   elif type(num) == str: 
     print("The element is a string")
 
-num=int(input("Enter an element: "))
+num=input("Enter an element: ")
 check(num)
